@@ -10,4 +10,3 @@
 - **python** - *good*
 - **Rust**  - *nomie*
 - **ASM**   - *terible*
--
